@@ -27,11 +27,9 @@
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(add your link)*
-- 💼 [Portfolio Website](https://yourwebsite.com/) *(if you have one)*
-- 📧 Email: your.email@example.com
+- 🔗 LinkedIn:  
+- 💼 Portfolio Website:
+- 📧 Email: ravibaniya.tech@gmail.com
 
----
-
-> “The quieter you become, the more you are able to hear.” – Ram Dass  
+--- 
 > 🧠 Always curious. Always learning.
